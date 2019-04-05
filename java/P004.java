@@ -3,7 +3,7 @@ import java.util.*;
 
 public class P004 {
 	public static void main(String[] args) {
-
+		//Test
 		System.out.println(isPalindromic(304) == false);
 		System.out.println(isPalindromic(900009) == true);
 
